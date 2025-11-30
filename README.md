@@ -2,7 +2,7 @@
 
 An end-to-end web application that automates resume screening using Google Gemini. Applicants upload resumes, admins create job descriptions and trigger an AI-driven screening pipeline. Results (score, strengths, weaknesses) are stored and visualized.
 
-[Demo Project Video](https://drive.google.com/file/d/1WGxauQW9EVm4f_0vIYGP3gtED67PVs6d/view?usp=sharing)
+[Project Demo Video](https://drive.google.com/file/d/1WGxauQW9EVm4f_0vIYGP3gtED67PVs6d/view?usp=sharing)
 
 ## Highlights
 - **Two user roles**: Applicant and Admin
@@ -195,3 +195,4 @@ This project is licensed under the MIT License.
 
 
 ⭐ Star this repo if it helped you!
+
